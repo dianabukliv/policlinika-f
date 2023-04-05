@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+table {
+  width: 90vw;
+  margin: 150px auto ;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+td,
+th {
+  border: 1px solid black;
+  margin: 50px;
+}
+
+ul {
+  list-style: none;
+  color: green;
+  font-size: 40px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+
+
+
+
+}
+
+form input {
+  height: 100%;
+}
